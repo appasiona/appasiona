@@ -84,8 +84,6 @@ My name is **Marc Victoria** and I'm a **full stack developer** from Barcelona.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="Photoshop"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/firefox/FF7139" height="40" alt="Firefox"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome"  />
@@ -103,6 +101,9 @@ My name is **Marc Victoria** and I'm a **full stack developer** from Barcelona.
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="Gitlab"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="Github"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="Bitbucket"  />
+  <img width="12" />
 </div>
 
 ###
@@ -112,15 +113,11 @@ My name is **Marc Victoria** and I'm a **full stack developer** from Barcelona.
 
 <h3 align="left">💡 Appasiona - Apps, webtools & interesting articles</h3>
 
-###
-
 🔗 [www.appasiona.com (spanish)](https://www.appasiona.com)
 
 ###
 
 <h3 align="left">🚗 Apparcator - Collaborative platform to find and share free parking spots around the world</h3>
-
-###
 
 🔗 [www.apparcator.com (english, spanish & catalan)](https://www.apparcator.com)
 
@@ -128,15 +125,11 @@ My name is **Marc Victoria** and I'm a **full stack developer** from Barcelona.
 
 <h3 align="left">⏱️ ¿Cuánto falta para...? - Fixed and customizable countdown timers</h3>
 
-###
-
 🔗 [www.cuantofaltapara.com (english & spanish)](https://www.cuantofaltapara.com)
 
 ###
 
 <h3 align="left">📱 Teléfono equivalente - Equivalent numbers for the 901 and 902 premium-rate phone numbers in Spain</h3>
-
-###
 
 🔗 [Android App (spanish)](https://play.google.com/store/apps/details?id=com.telefonoequivalente)
 
@@ -149,13 +142,13 @@ My name is **Marc Victoria** and I'm a **full stack developer** from Barcelona.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/marcvictoria/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://x.com/appasiona" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
   <a href="https://www.facebook.com/Appasiona" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"/>
   </a>
 </div>
 
